@@ -43,7 +43,7 @@ public class MainClass {
         System.out.println("Kieu character :" + ch);
         System.out.println("Kieu chuoi : " + str);
         System.out.println("Kieu double :" + d);
-        System.out.println("\nIn tren cung 1 dong:");
+        System.out.println("\nIn tren cung 1 dong: ");
         System.out.println("Kieu int =" + i + ", Kieu float=" + f + ", Kieu long=" + l + ", Kieu double=" + d + ", Kieu character=" + ch + ", Kieu chuoi=" + str);
 
     }
