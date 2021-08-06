@@ -12,9 +12,7 @@ import java.util.Scanner;
  * @author phaml
  */
 public class MainClass {
-
     int n;
-
     public int getN() {
         return n;
     }
