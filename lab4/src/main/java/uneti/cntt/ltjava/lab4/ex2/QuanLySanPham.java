@@ -19,15 +19,4 @@ public class QuanLySanPham {
         System.out.println("5. Tìm và xóa sản phẩm theo tên nhập từ bàn phím.");
         System.out.println("6. Xuất giá trung bình của các sản phẩm.");
         System.out.println("0. Thoat.");
- }
-    
-}
-//    public static void main(String[] args) {
-//        int n = 0;
-//        SanPham a = new SanPham();
-//        SanPham[] sp = null;
-//        do {
-//            menu();
-//        } while (n!=0);
-//
-//    }
+ }}
